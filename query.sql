@@ -1,4 +1,5 @@
 SELECT * FROM clients
+    
 
 SELECT clients.first_name, clients.last_name, memberships.start_date, memberships.end_date, memberships.price
 FROM clients
